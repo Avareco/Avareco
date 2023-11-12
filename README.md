@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Avareco
-- 👀 I’m interested in Front-end development (React.js)
-- 🌱 I’m currently learning mySQL
-- 💞️ I’m looking to reach a new position in awesome company
+- 👀 I’m interested in Front-end development (React, Vue, Angular)
 - 📫 How to reach me yk.120301@gmail.com
 
 <!---
